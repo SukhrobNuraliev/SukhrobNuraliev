@@ -19,7 +19,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 ## ⚡ Technologies
 
