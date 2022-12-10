@@ -7,8 +7,6 @@ I am a back-end software engineer specializing in building high load back-end se
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Facebook Badge](https://img.shields.io/badge/-Sukhrob_Nuraliev-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
-[![Instagram Badge](https://img.shields.io/badge/-@sukhrobnuraliev_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/sukhrobnuraliev_/)
 [![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
 
   
