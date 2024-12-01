@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Sukhrob Nurali**, a **Backend Developer** with **5+ years of experience** in designing, building, and optimizing backend systems using **PHP, Laravel, and modern architectures**.  
+👋 Hi, I'm **Sukhrob Nurali**, a **Backend Developer** with **5+ years of experience** in designing, building, and optimizing backend systems using **PHP, Laravel, and modern architectures**.  
 
 I specialize in:  
 ✔️ **Building and scaling backend applications** for high-performance and reliability.  
@@ -54,14 +54,6 @@ Throughout my career, I’ve worked on **SaaS products, large-scale applications
 📈 **Handled 1M+ API requests daily** with efficient queue processing.  
 
 📌 **More Projects → [GitHub Repositories](https://github.com/sukhrobnuraliev?tab=repositories)**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
 ---
 
