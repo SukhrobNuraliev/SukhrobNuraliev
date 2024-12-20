@@ -39,21 +39,7 @@ Throughout my career, I’ve worked on **SaaS products, large-scale applications
 ### **Other Technical Skills**
 - **Testing & Code Quality** – PHPUnit, Pest, Static Analysis  
 - **Asynchronous Processing** – Queues, Jobs, Workers  
-- **Frontend (If needed)** – Vue.js, Alpine.js, TailwindCSS  
-
----
-
-## 🔥 Featured Projects  
-
-📌 **[Project 1 - SaaS Platform](https://github.com/yourrepo)**  
-✅ Built a **multi-tenant SaaS application** using **Laravel, MySQL, Redis**.  
-📈 Improved **performance by 60%** with database indexing and caching.  
-
-📌 **[Project 2 - High-Traffic API](https://github.com/yourrepo)**  
-✅ Developed a **real-time analytics platform** using **Laravel, Redis, WebSockets**.  
-📈 **Handled 1M+ API requests daily** with efficient queue processing.  
-
-📌 **More Projects → [GitHub Repositories](https://github.com/sukhrobnuraliev?tab=repositories)**  
+- **Frontend (If needed)** – Vue.js, Alpine.js, TailwindCSS
 
 ---
 
@@ -62,5 +48,3 @@ Throughout my career, I’ve worked on **SaaS products, large-scale applications
 🔗 **LinkedIn:** [Sukhrob Nurali](https://www.linkedin.com/in/sukhrob-nurali/)  
 📢 **YouTube:** [@SuxrobNurali](https://www.youtube.com/@SuxrobNurali)  
 💬 **Telegram:** [@suxrobnurali](https://t.me/suxrobnurali)
-
----
